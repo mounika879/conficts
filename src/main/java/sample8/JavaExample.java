@@ -1,8 +1,9 @@
 package sample8;
 import java.util.Scanner;
+
 public class JavaforExample 
-{
-    public static void main(String[] args) 
+public class JavatheforExample 
+public static void main(String[] args) 
     {
     	int count, temp;
     	
