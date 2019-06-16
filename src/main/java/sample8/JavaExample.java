@@ -1,6 +1,6 @@
 package sample8;
 import java.util.Scanner;
-public class JavaExample 
+public class JavaforExample 
 {
     public static void main(String[] args) 
     {
